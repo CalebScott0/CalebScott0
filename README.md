@@ -3,7 +3,7 @@ Computer Science student exploring systems programming, C++, and physics simulat
 - :seedling: Exploring physics simulation design and operating systems
 
 - ### :rocket: Featured Projects
-- ⚙️ (in progress)#### [Rigid Body Physics Engine (C++)](https://github.com/CalebScott0/rigid-body-physics-2d) 2D rigid body physics simulation with gravity, collision detection, and impulse resolution.  
+- ⚙️ (in progress) #### [Rigid Body Physics Engine (C++)](https://github.com/CalebScott0/rigid-body-physics-2d) 2D rigid body physics simulation with gravity, collision detection, and impulse resolution.  
 
 <!--
 **CalebScott0/CalebScott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
