@@ -1,5 +1,6 @@
 ### :man_technologist: About Me :
 Computer Science student exploring systems programming, ++C, and physics simulation. Interested in performance, memory management, and low-level software design.
+- :seedling: Exploring physics simulation design and operating systems
 <!--
 **CalebScott0/CalebScott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
