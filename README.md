@@ -6,11 +6,11 @@ Computer Science student focused on systems programming, C++, and physics simula
 - **[SoundBridge (Full-Stack Web Application)](https://github.com/CalebScott0/SoundBridge)** Match-based platform connecting music producers with artists, created for SparkHacks 2026.
 - **[Business Review Frontend](https://github.com/CalebScott0/review-site-frontend)** Client-side application for a business review platform with dynamic content rendering, API integration, and location filtering using geospatial data.
 - **[Business Review Backend API](https://github.com/CalebScott0/API_Review_Site)** RESTful backend supporting CRUD operations and extensive relational database design.  
-
+- ⚙️ (in progress) [Rigid Body Physics Engine (C++)](https://github.com/CalebScott0/rigid-body-physics-2d) 2D rigid body physics simulation with gravity, collision detection, and impulse resolution.
 
 <!--
 **CalebScott0/CalebScott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- ⚙️ (in progress) [Rigid Body Physics Engine (C++)](https://github.com/CalebScott0/rigid-body-physics-2d) 2D rigid body physics simulation with gravity, collision detection, and impulse resolution.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
