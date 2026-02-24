@@ -1,5 +1,5 @@
 ## :man_technologist: About Me :
-Computer Science student exploring systems programming, C++, and physics simulation. Interested in performance, memory management, and low-level software design.
+Computer Science student focused on systems programming, C++, and physics simulation. Building projects to deepen my understanding of performance optimization and low-level software design.
 - :seedling: Exploring physics simulation design and operating systems
 
 ### :rocket: Featured Projects
