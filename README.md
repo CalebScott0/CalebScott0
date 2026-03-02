@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVoYzNwenJqc2drMnFjOW9jaDR1ZXgxZmtkY3cwMm9pcGdpZXlldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="full"/>
+</div>
+
 ## :man_technologist: About Me :
 Computer Science student focused on systems programming, C++, and physics simulation. Building projects to deepen my understanding of performance optimization and low-level software design.
 - :seedling: Exploring physics simulation design and operating systems
