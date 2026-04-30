@@ -46,13 +46,8 @@ Computer Science student focused on systems programming, C++, and physics simula
 
 ## 🧠 Technical Interests
 - Systems Programming (C/C++)  
-- Operating Systems concepts  
-- Database design & optimization  
+- Operating systems performance
+- Compiler design & optimization  
 - Physics simulation & real-time computation  
-
----
-
-## 📫 Contact
-Feel free to connect via GitHub or reach out for collaboration opportunities.
 
 ---
