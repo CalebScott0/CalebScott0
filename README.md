@@ -4,7 +4,7 @@
 
 # Caleb Scott — Computer Science Student
 
-## Bio Line
+## Bio
 Computer Science student focused on **systems programming, C++ development, and performance-driven software design**.
 
 ---
